@@ -1,0 +1,182 @@
+{
+  "classic-rig.png": [
+    2048,
+    1536
+  ],
+  "classic-front-rig.png": [
+    2048,
+    1536
+  ],
+  "classic-motion.png": [
+    256,
+    2304
+  ],
+  "pajamas-rig.png": [
+    2048,
+    1536
+  ],
+  "pajamas-front-rig.png": [
+    2048,
+    1536
+  ],
+  "pajamas-motion.png": [
+    256,
+    768
+  ],
+  "pink-rig.png": [
+    2048,
+    1536
+  ],
+  "pink-front-rig.png": [
+    2048,
+    1536
+  ],
+  "pink-motion.png": [
+    256,
+    768
+  ],
+  "green-rig.png": [
+    2048,
+    1536
+  ],
+  "green-front-rig.png": [
+    2048,
+    1536
+  ],
+  "green-motion.png": [
+    256,
+    768
+  ],
+  "movie-rig.png": [
+    2048,
+    1536
+  ],
+  "movie-front-rig.png": [
+    2048,
+    1536
+  ],
+  "movie-motion.png": [
+    256,
+    768
+  ],
+  "rest-crouch-rig.png": [
+    2048,
+    1536
+  ],
+  "rest-source-rig.png": [
+    2048,
+    1536
+  ],
+  "rest-seating-flow.png": [
+    256,
+    1536
+  ],
+  "kneel-crouch-rig.png": [
+    2048,
+    1536
+  ],
+  "kneel-source-rig.png": [
+    2048,
+    1536
+  ],
+  "kneel-seating-flow.png": [
+    256,
+    1536
+  ],
+  "closed.png": [
+    308,
+    147
+  ],
+  "closed-front.png": [
+    340,
+    125
+  ],
+  "rest-eyes-closed.png": [
+    312,
+    73
+  ],
+  "rest-eyes-open.png": [
+    312,
+    73
+  ],
+  "kneel-eye-closed.png": [
+    101,
+    104
+  ],
+  "watermelon-limbs.png": [
+    2048,
+    3072
+  ],
+  "watermelon-details.png": [
+    2048,
+    3072
+  ],
+  "headshake-summer.png": [
+    1536,
+    2304
+  ],
+  "pillow-body.png": [
+    2048,
+    3072
+  ],
+  "pillow-details.png": [
+    3072,
+    3072
+  ],
+  "pillow-hit.png": [
+    128,
+    192
+  ],
+  "homework-summer.png": [
+    2048,
+    3072
+  ],
+  "homework-hit.png": [
+    128,
+    192
+  ],
+  "side-sleep.png": [
+    2048,
+    3072
+  ],
+  "side-sleep-hit.png": [
+    128,
+    192
+  ],
+  "backpack-sleep.png": [
+    2048,
+    3072
+  ],
+  "backpack-sleep-hit.png": [
+    128,
+    192
+  ],
+  "cicada-body.png": [
+    4096,
+    3072
+  ],
+  "cicada-faces.png": [
+    1,
+    1
+  ],
+  "cicada-props.png": [
+    1024,
+    1536
+  ],
+  "peace-pose.png": [
+    2048,
+    3072
+  ],
+  "peace-eyes.png": [
+    340,
+    150
+  ],
+  "rice-pose-v2.png": [
+    3072,
+    3456
+  ],
+  "rice-motion-v2.png": [
+    256,
+    7680
+  ]
+}

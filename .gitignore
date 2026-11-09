@@ -1,0 +1,7 @@
+node_modules/
+dist/
+assets/
+assets-import-*/
+assets-backup-*/
+*.log
+.env
