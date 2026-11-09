@@ -4,7 +4,10 @@ Windows 上的桌面小伙伴。支持拖拽、保持置顶、三档大小、五
 
 ## 下载和运行
 
-从 [GitHub Releases](https://github.com/MemoKanna/kanna-desktop-pet/releases/latest) 下载 Windows x64 ZIP，完整解压后双击 `KannaDesktopPet.exe`。保留 EXE 同目录的 `resources`、`locales` 和运行库。公开包使用原创示例形象「星团」，内置各类动作的演示。
+- [最新版完整版](https://github.com/MemoKanna/kanna-desktop-pet/releases/latest) 内置康娜的换装、动作和日语配音。
+- [示例版](https://github.com/MemoKanna/kanna-desktop-pet/releases/download/v0.1.0/KannaDesktopPet-0.1.0-windows-x64.zip) 内置原创形象「星团」及各类动作的演示。
+
+两款均适用于 Windows x64。完整解压 ZIP 后，双击 `KannaDesktopPet.exe`。保留 EXE 同目录的 `resources`、`locales` 和运行库。
 
 ## 导入本地素材
 
@@ -32,4 +35,4 @@ npm run package:win -- --local-assets "D:\my-pet-assets"
 
 ## 许可
 
-源码和原创示例形象采用 [MIT](LICENSE)。康娜角色和作品素材归各自权利人所有。项目为非官方桌宠，仓库和公开便携包使用原创示例素材。Electron 及其依赖的许可随便携包附带。
+源码和原创示例形象采用 [MIT](LICENSE)。康娜角色和作品素材归各自权利人所有。项目为非官方桌宠。Electron 及其依赖的许可随便携包附带。

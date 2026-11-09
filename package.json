@@ -1,7 +1,7 @@
 {
   "name": "kanna-desktop-pet",
   "productName": "康娜桌宠",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "description": "A Windows desktop pet with interchangeable local artwork and voice packs.",
   "license": "MIT",
